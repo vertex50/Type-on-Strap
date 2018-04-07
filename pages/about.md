@@ -16,10 +16,13 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <h4>2015</h4>
 <li>아두이노 기반 미니 게임 플랫폼(Arduino-based Mini Game Platform), 2015.10, 한국정보처리학회<br/></li>
 <h4>2016</h4>
-IoT를 사용한 스마트 횡단보도 시스템(Smart Crosswalk System using IoT), 2016.05, 한국정보처리학회<br/>
-IoT와 패턴 학습 기반의 스마트 농장 자동 급수 시스템 제안(A Proposal of Smart Farm Watering Automation System based on IoT and Pattern Learning), 2016.05, 한국정보처리학회<br/>
-상용 엔터테인먼트 디바이스 개발을 위한 아두이노 기반 입력장치 구현(A Implement of Arduino-based Input Devices for Commercial Entertainment Devices), 2016.05, 한국인터넷정보학회<br/>
-클라우드 저장공간 통합 플랫폼의 보안 방법 연구(A Research of Security Method for Intergrated Cloud Storage Platform), 2016.05, 한국정보처리학회<br/>농장 자동화 시스템 데이터 활용 방안 연구(A Study on Usage of Data from Farm Automation System), 2016.10, 인문사회과학기술융합학회<br/>스마트 횡단보도 시스템을 이용한 횡단보도 내 구역 물체 탐지 연구(A Study of Object Detection in Crosswalk Area using SmartCrosswalk System), 2016.12, 한국정보과학회<br/>스마트 농장에서의 데이터 수집 방법(A Study to Data Aggregation on Smart Farm), 2016.12, 한국정보과학회<br/>
+<li>IoT를 사용한 스마트 횡단보도 시스템(Smart Crosswalk System using IoT), 2016.05, 한국정보처리학회</li>
+<li>IoT와 패턴 학습 기반의 스마트 농장 자동 급수 시스템 제안(A Proposal of Smart Farm Watering Automation System based on IoT and Pattern Learning), 2016.05, 한국정보처리학회</li>
+<li>상용 엔터테인먼트 디바이스 개발을 위한 아두이노 기반 입력장치 구현(A Implement of Arduino-based Input Devices for Commercial Entertainment Devices), 2016.05, 한국인터넷정보학회</li>
+<li>클라우드 저장공간 통합 플랫폼의 보안 방법 연구(A Research of Security Method for Intergrated Cloud Storage Platform), 2016.05, 한국정보처리학회</li>
+<li>농장 자동화 시스템 데이터 활용 방안 연구(A Study on Usage of Data from Farm Automation System), 2016.10, 인문사회과학기술융합학회</li>
+<li>스마트 횡단보도 시스템을 이용한 횡단보도 내 구역 물체 탐지 연구(A Study of Object Detection in Crosswalk Area using SmartCrosswalk System), 2016.12, 한국정보과학회</li>
+<li>스마트 농장에서의 데이터 수집 방법(A Study to Data Aggregation on Smart Farm), 2016.12, 한국정보과학회</li>
 <h4>2017</h4>
 <h4>2018</h4>
 <h3>수상내역</h3>

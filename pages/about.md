@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Testpage]
 ---
 
-
+<ul>
  <h3>관심분야</h3>
 IoT(Internet of Things), Embedded System, Sensor, machine learning
 
@@ -14,7 +14,7 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 꼬이면 풀면 되징!
 <h3>논문</h3>
 <h4>2015</h4>
-아두이노 기반 미니 게임 플랫폼(Arduino-based Mini Game Platform), 2015.10, 한국정보처리학회<br/>
+<li>아두이노 기반 미니 게임 플랫폼(Arduino-based Mini Game Platform), 2015.10, 한국정보처리학회<br/></li>
 <h4>2016</h4>
 IoT를 사용한 스마트 횡단보도 시스템(Smart Crosswalk System using IoT), 2016.05, 한국정보처리학회<br/>
 IoT와 패턴 학습 기반의 스마트 농장 자동 급수 시스템 제안(A Proposal of Smart Farm Watering Automation System based on IoT and Pattern Learning), 2016.05, 한국정보처리학회<br/>
@@ -38,7 +38,7 @@ SmartCrossWalk(한이음ICT)<br/>SmartPlanting(식물자동제어시스템)
 SmartPlanting(식물자동제어 및 원격 모니터링 시스템)<br/>토양 습도 센서 개발(Soil Moisture Sensor)<br/>태양광 오류 패널 탐지(드론 추가 상태정보 수집 시스템)
 <h4>2018</h4>
 토양 습도 센서 개발(Soil Moisture Sensor)
-<ul>
+
  <li>Address : 경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호<br/>(38430) 509, University of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea</li>
  <li>Contacts : </li>
 e-mail : vertex50@cu.ac.kr(대학이메일) vertex@cu.ac.kr(대학원이메일)<br/>

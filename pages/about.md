@@ -6,17 +6,17 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Testpage]
 ---
 
-
-<h3>관심분야</h3>
+<ol>
+ <li><h3>관심분야</h3></li>
 IoT(Internet of Things), Embedded System, Sensor, machine learning
 
-<h3>하고싶은말</h3>
+<li><h3>하고싶은말</h3></li>
 .
-<h3>논문</h3>
+<li><h3>논문</h3></li>
 
-<h3>참여프로젝트</h3>
+<li><h3>참여프로젝트</h3></li>
 
-<h3>진행프로젝트</h3>
+<li><h3>진행프로젝트</h3></li>
 
 <h4>2014</h4>
 <h4>2015</h4> 
@@ -30,7 +30,7 @@ Contacts :
 e-mail : 
 mobile : (+82)
 tel : 
-
+</ol>
 Type on  Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
 Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.

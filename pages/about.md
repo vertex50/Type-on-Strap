@@ -24,12 +24,13 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <h4>2017</h4> 
 <h4>2018</h4>
 
-
-Address :
-Contacts : 
+<ul>
+ <li>Address : 경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호</li>
+ <li>Contacts : </li>
 e-mail : 
 mobile : (+82)
-tel : 
+tel :
+ </ul>
 </ol>
 Type on  Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 

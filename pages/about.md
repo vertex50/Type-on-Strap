@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /aboutd/
+title: 이력
+permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
 ---

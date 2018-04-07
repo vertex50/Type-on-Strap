@@ -11,7 +11,7 @@ tags: [About, Testpage]
 IoT(Internet of Things), Embedded System, Sensor, machine learning
 
 <h3>하고싶은말</h3>
-.
+꼬이면 풀면 되징!
 <h3>논문</h3>
 
 <h3>참여프로젝트</h3>

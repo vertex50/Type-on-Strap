@@ -10,14 +10,14 @@ tags: [About, Testpage]
 <h2>관심분야</h2>
 IoT(Internet of Things), Embedded System, Sensor, machine learning
 
-하고싶은말
+<h2>하고싶은말</h2>
 .
 
-논문
+<h2>논문</h2>
 
-참여프로젝트
+<h2>참여프로젝트</h2>
 
-진행프로젝트
+<h2>진행프로젝트</h2>
 
 2014 2015 2016 2017 2018
 

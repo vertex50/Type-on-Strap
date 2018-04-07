@@ -12,7 +12,6 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 
 <h3>하고싶은말</h3>
 .
-
 <h3>논문</h3>
 
 <h3>참여프로젝트</h3>

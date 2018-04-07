@@ -15,8 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Test Page. <br/> Making Blog </p>
-     <p>대구가톨릭대학교 컴퓨터공학전공(2014~2018)<br/>대구가톨릭대학교 컴퓨터정보통신공학과 재학(2018~)</p>
+     <p>Test Page. <br/> Making Blog 대구가톨릭대학교 컴퓨터공학전공(2014~2018)<br/>대구가톨릭대학교 컴퓨터정보통신공학과 재학(2018~)</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

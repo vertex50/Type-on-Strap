@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AboutTT
-permalink: /about/
+title: About
+permalink: /aboutd/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
 ---

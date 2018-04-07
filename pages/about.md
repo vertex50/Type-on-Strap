@@ -15,7 +15,7 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 
 <h3>논문</h3>
 <h4>2015</h4>
-<li>아두이노 기반 미니게임 플랫폼(Arduino-based Mini Game Platform). 정영주, 안교준, 이찬송, 서동만, 2015.05, 한국정보처리학회<br/></li>
+<li>아두이노 기반 미니게임 플랫폼(Arduino-based Mini Game Platform). <br/>정영주, 안교준, 이찬송, 서동만, 2015.05, 한국정보처리학회<br/></li>
 
 <h4>2016</h4>
 <li>IoT를 사용한 스마트 횡단보도 시스템(Smart Crosswalk System using IoT), 안광은, 정영주, 박재성, 정세연, 최홍준, 이종섭, 서동만, 2016.05, 한국정보처리학회</li>

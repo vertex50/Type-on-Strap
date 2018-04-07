@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Young Ju
+title: About.YoungJu
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]

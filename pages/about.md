@@ -13,6 +13,36 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <h3>하고싶은말</h3>
 꼬이면 풀면 되징!
 
+<h3>참여프로젝트</h3>
+(SaveMe,포트홀,태양광패널,드론포트홀,MinT,한이음두개 정리해두기)
+
+<h3>진행프로젝트</h3>
+<h4>2014</h4>
+C기반 라이브러리 헤더 구현하기(1학차 텀프로젝트)<br/>C++기반 자판기(2학차 텀프로젝트)
+<h4>2015</h4> 
+JAVA기반 점심메뉴 랜덤 선택기(3학차 텀프로젝트)<br/>SmartCrossWalk(Global Innovator Festa 2015)
+<h4>2016</h4> 
+SmartCrossWalk(한이음ICT)<br/>SmartPlanting(식물자동제어시스템)
+<h4>2017</h4>
+SmartPlanting(식물자동제어 및 원격 모니터링 시스템)<br/>토양 습도 센서 개발(Soil Moisture Sensor)<br/>태양광 오류 패널 탐지(드론 추가 상태정보 수집 시스템)
+<h4>2018</h4>
+토양 습도 센서 개발(Soil Moisture Sensor)
+
+<h3>수상내역</h3>
+<li>160207_2015특성화사업콘테스트</li>
+<li>160429_한국정보처리학회(장려)</li>
+<li>161126_ICT 전문 인력 양성 멘토링 프로그램</li>
+<li>161207_한국정보산업연합회 (입선)</li>
+<li>161208_창의컴퓨팅경진대회(장려)</li>
+<li>161129_IT공학부 소프트웨어 전시회 (장려) : (Smart Crosswlak)</li>
+<li>161129_IT공학부 소프트웨어 전시회 (장려) : (스마트농장)</li>
+<li>171103_한국정보처리학회(장려)</li>
+<li>171124_IT공학부 소프트웨어 전시회(장려) : (SPP)</li>
+<li>180206_2017 한국 소프트웨어 종합학회 학부생/주니어 논문 경진대회</li>
+
+<h3>특허</h3>
+<li>준비중</li>
+
 <h3>논문</h3>
 <h4>2015</h4>
 <li>아두이노 기반 미니게임 플랫폼(Arduino-based Mini Game Platform). <br/>정영주, 안교준, 이찬송, 서동만, 2015.05, 한국정보처리학회<br/></li>
@@ -34,35 +64,6 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <li>Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking.<br/>KwangEun An, Sung Won Lee, Young Ju Jeong, Dongmahn Seo, 20 December 2017, International Conference on Computer Science and its Applications.</li>
 <h4>2018</h4>
 <li>Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments.<br/>Young Ju Jeong, KwangEun An , Dongmahn Seo, 2018.01,  International Conference On Consumer Electronics(ICCE)</li>
-<h3>특허</h3>
-<li>준비중</li>
-
-<h3>수상내역</h3>
-<li>160207_2015특성화사업콘테스트</li>
-<li>160429_한국정보처리학회(장려)</li>
-<li>161126_ICT 전문 인력 양성 멘토링 프로그램</li>
-<li>161207_한국정보산업연합회 (입선)</li>
-<li>161208_창의컴퓨팅경진대회(장려)</li>
-<li>161129_IT공학부 소프트웨어 전시회 (장려) : (Smart Crosswlak)</li>
-<li>161129_IT공학부 소프트웨어 전시회 (장려) : (스마트농장)</li>
-<li>171103_한국정보처리학회(장려)</li>
-<li>171124_IT공학부 소프트웨어 전시회(장려) : (SPP)</li>
-<li>180206_2017 한국 소프트웨어 종합학회 학부생/주니어 논문 경진대회</li>
-
-<h3>참여프로젝트</h3>
-(SaveMe,포트홀,태양광패널,드론포트홀,MinT,한이음두개 정리해두기)
-
-<h3>진행프로젝트</h3>
-<h4>2014</h4>
-C기반 라이브러리 헤더 구현하기(1학차 텀프로젝트)<br/>C++기반 자판기(2학차 텀프로젝트)
-<h4>2015</h4> 
-JAVA기반 점심메뉴 랜덤 선택기(3학차 텀프로젝트)<br/>SmartCrossWalk(Global Innovator Festa 2015)
-<h4>2016</h4> 
-SmartCrossWalk(한이음ICT)<br/>SmartPlanting(식물자동제어시스템)
-<h4>2017</h4>
-SmartPlanting(식물자동제어 및 원격 모니터링 시스템)<br/>토양 습도 센서 개발(Soil Moisture Sensor)<br/>태양광 오류 패널 탐지(드론 추가 상태정보 수집 시스템)
-<h4>2018</h4>
-토양 습도 센서 개발(Soil Moisture Sensor)
 
 <h3>인적사항</h3>
 <li>경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호<br/>(38430) 509, University of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea</li>

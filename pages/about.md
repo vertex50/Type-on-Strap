@@ -19,9 +19,10 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 
 <h2>진행프로젝트</h2>
 
-2014 2015 2016 2017 2018
+<h5>2014</h5>
+<h6>2015</h6> 2016 2017 2018
 
- f
+
 Address :
 Contacts : 
 e-mail : 

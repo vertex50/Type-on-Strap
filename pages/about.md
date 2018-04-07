@@ -34,6 +34,8 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <li>Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking. International Conference on Ubiquitous Information Technologies and Applications, KwangEun An, Sung Won Lee, Young Ju Jeong, Dongmahn Seo, 20 December 2017, International Conference on Computer Science and its Applications.</li>
 <h4>2018</h4>
 <li>Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments. International Conference On Consumer Electronics, Young Ju Jeong, KwangEun An , Dongmahn Seo, 2018.01,  International Conference On Consumer Electronics</li>
+<h3>특허</h3>
+<li>준비중</li>
 
 <h3>수상내역</h3>
 <li>160207_2015특성화사업콘테스트</li>
@@ -62,7 +64,7 @@ SmartPlanting(식물자동제어 및 원격 모니터링 시스템)<br/>토양 �
 <h4>2018</h4>
 토양 습도 센서 개발(Soil Moisture Sensor)
 
-<h4>인적사항</h4>
+<h3>인적사항</h3>
 <li>경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호<br/>(38430) 509, University of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea</li>
 <li>e-mail : vertex50@cu.ac.kr(대학이메일) vertex@cu.ac.kr(대학원이메일)</li>
 <li>mobile : (+82)010-8482-9876 </li>

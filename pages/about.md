@@ -9,6 +9,7 @@ tags: [About, Testpage]
 <ul>
  <h3>관심분야</h3>
 IoT(Internet of Things), Embedded System, Sensor, machine learning
+
 <h3>하고싶은말</h3>
 꼬이면 풀면 되징!
 

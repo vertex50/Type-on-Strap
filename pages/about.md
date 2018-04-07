@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 이력
+title: About Young Ju
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]

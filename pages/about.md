@@ -32,17 +32,25 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <li>반려 식물을 위한 스마트 화분(Smart Pot for Companion Plants), 이민영. 정영주. 이성원 한정 김석진 서동만, 2017, 정보처리학회</li>
 <li>반영구 토양습도 센서 개발(Development of A Semi-permanent Soil Humidity Sensor), 정영주, 안광은, 서동만, 2017.12, 한국정보처리학회</li>
 <li>Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking. International Conference on Ubiquitous Information Technologies and Applications, KwangEun An, Sung Won Lee, Young Ju Jeong, Dongmahn Seo, 20 December 2017, International Conference on Computer Science and its Applications.</li>
-<li></li>
-<li></li>
-<li></li>
-
 <h4>2018</h4>
+<li>Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments. International Conference On Consumer Electronics, Young Ju Jeong, KwangEun An , Dongmahn Seo, 2018.01,  International Conference On Consumer Electronics</li>
+
 <h3>수상내역</h3>
+<li>160207_2015특성화사업콘테스트</li>
+<li>160429_한국정보처리학회(장려)</li>
+<li>161126_ICT 전문 인력 양성 멘토링 프로그램</li>
+<li>161207_한국정보산업연합회 (입선)</li>
+<li>161208_창의컴퓨팅경진대회(장려)</li>
+<li>161129_IT공학부 소프트웨어 전시회 (장려) : (Smart Crosswlak)</li>
+<li>161129_IT공학부 소프트웨어 전시회 (장려) : (스마트농장)</li>
+<li>171103_한국정보처리학회(장려)</li>
+<li>171124_IT공학부 소프트웨어 전시회(장려) : (SPP)</li>
+<li>180206_2017 한국 소프트웨어 종합학회 학부생/주니어 논문 경진대회</li>
 
 <h3>참여프로젝트</h3>
+(SaveMe,포트홀,태양광패널,드론포트홀,MinT,한이음두개 정리해두기)
 
 <h3>진행프로젝트</h3>
-
 <h4>2014</h4>
 C기반 라이브러리 헤더 구현하기(1학차 텀프로젝트)<br/>C++기반 자판기(2학차 텀프로젝트)
 <h4>2015</h4> 
@@ -61,9 +69,3 @@ mobile : (+82)010-8482-9876 <br/>
 tel : (+82)053-850-2740(학부사무실)<br/>
  </ul>
 
-Type on  Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 

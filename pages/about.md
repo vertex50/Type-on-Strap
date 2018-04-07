@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "![som_candy](https://user-images.githubusercontent.com/19426761/38455402-8fcef188-3ab2-11e8-80f5-04f6270f1070.png)"
+feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Testpage]
 ---
 

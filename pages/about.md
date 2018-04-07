@@ -62,10 +62,10 @@ SmartPlanting(식물자동제어 및 원격 모니터링 시스템)<br/>토양 �
 <h4>2018</h4>
 토양 습도 센서 개발(Soil Moisture Sensor)
 
- <li>Address : 경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호<br/>(38430) 509, University of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea</li>
- <li>Contacts : </li>
-e-mail : vertex50@cu.ac.kr(대학이메일) vertex@cu.ac.kr(대학원이메일)<br/>
-mobile : (+82)010-8482-9876 <br/>
-tel : (+82)053-850-2740(학부사무실)<br/>
+<h4>인적사항</h4>
+<li>경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호<br/>(38430) 509, University of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea</li>
+<li>e-mail : vertex50@cu.ac.kr(대학이메일) vertex@cu.ac.kr(대학원이메일)</li>
+<li>mobile : (+82)010-8482-9876 </li>
+<li>tel : (+82)053-850-2740(학부사무실)</li>
  </ul>
 

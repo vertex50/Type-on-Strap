@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/som-candy.png"
+feature-img: "assets/img/pexels/som-candy.jpeg"
 tags: [About, Testpage]
 ---
 

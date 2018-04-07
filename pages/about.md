@@ -29,7 +29,7 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <h4>2017</h4>
 <li>Smart Crossing System Using IoT, 안광은, 정영주, 서동만, 2017.01, International Conference On Consumer Electronics(ICCE)</li>
 <li>토양습도 센서의 내구도 향상을 위한 연구(Study on improvement of durability of soil humidity sensor), 정영주, 안광은, 서동만, 2017.05, 한국정보처리학회</li>
-<li>반려 식물을 위한 스마트 화분(), 이민영. 정영주. 이성원 한정 김석진 서동만, 2017, 정보처리학회</li>
+<li>반려 식물을 위한 스마트 화분(Smart Pot for Companion Plants), 이민영. 정영주. 이성원 한정 김석진 서동만, 2017, 정보처리학회</li>
 <li></li>
 <li></li>
 <li></li>

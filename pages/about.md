@@ -25,7 +25,7 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <h4>2018</h4>
 
 <ul>
- <li>Address : 경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호</li>
+ <li>Address : 경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호<br/>(38430) 509, University of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea</li>
  <li>Contacts : </li>
 e-mail : vertex50@cu.ac.kr(대학이메일) vertex@cu.ac.kr(대학원이메일)<br/>
 mobile : (+82)010-8482-9876 <br/>

@@ -5,6 +5,7 @@ permalink: /about/
 feature-img: "assets/img/pexels/som_candy.png"
 tags: [About, Testpage]
 ---
+
 <ul>
  <h3>관심분야</h3>
 IoT(Internet of Things), Embedded System, Sensor, machine learning

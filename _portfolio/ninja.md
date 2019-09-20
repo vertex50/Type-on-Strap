@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ninja
-img: "assets/img/portfolio/ninja.png"
+title: Ninga
+img: "assets/img/portfolio/CloudStorage.PNG"
 date: April, 08 2014
 tags: [Lorem]
 ---

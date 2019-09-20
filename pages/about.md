@@ -11,10 +11,11 @@ tags: [About, Testpage]
 IoT(Internet of Things), Embedded System, Sensor, machine learning
 
 <h3>하고싶은말</h3>
-꼬이면 풀면 되징!
+꼬이면 풀면 되지!
 
 <h3>참여프로젝트</h3>
 (SaveMe,포트홀,태양광패널,드론포트홀,MinT,한이음두개 정리해두기)
+개인용 통합 클라우드 스토리지 서비스 시스템 연구, 한국 연구재단, 20150701~20160630
 
 <h3>진행프로젝트</h3>
 <h4>2014</h4>

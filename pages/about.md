@@ -28,22 +28,19 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <h4>2014</h4>
 <li>C기반 라이브러리 헤더 구현하기(대학 1학차 텀프로젝트)</li>
 <li>C++기반 자판기(대학 2학차 텀프로젝트)</li>
-
 <h4>2015</h4> 
 <li>JAVA기반 점심메뉴 랜덤 선택기(대학 3학차 텀프로젝트)</li>
 <li>SmartCrossWalk(Global Innovator Festa 2015)</li>
 <li>개인용 통합 클라우드 스토리지 시스템 연구</li>
-
+<li>Unity기반 상용 엔터테인먼트 시스템 연구</li>
 <h4>2016</h4> 
 <li>SmartCrossWalk(한이음ICT)</li>
 <li>SmartPlanting(식물자동제어시스템)</li>
-
 <h4>2017</h4>
 <li>SmartPlanting(식물자동제어 및 원격 모니터링 시스템)</li>
 <li>토양 습도 센서 개발</li>
 <li>태양광 모듈 결함 검사용 영상분석 프로그램 개발</li>
 <li>딥러닝 포트홀 탐지 프로그램 개발
-
 <h4>2018</h4>
 <li>드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발</li>
 <li>딥러닝 탐지코드 해석 연구</li>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ninja
+title: 개인용 통합 클라우드 스토리지 시스템
 img: "assets/img/portfolio/CloudStorage.PNG"
 date: April, 08 2014
 tags: [Lorem]

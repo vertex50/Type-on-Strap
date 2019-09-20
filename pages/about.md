@@ -49,7 +49,7 @@ SmartPlanting(식물자동제어 및 원격 모니터링 시스템)<br/>토양 �
 <li>180206_2017 한국 소프트웨어 종합학회 학부생/주니어 논문 경진대회</li>
 
 <h3>특허</h3>
-<li>준비중</li>
+<li>(출원)토양 적응형 반영구 토양 습도 센서, Korea Patent 10-2018-0022832, Feb. 2018</li>
 
 <h3>논문</h3>
 <h4>2015</h4>
@@ -71,7 +71,14 @@ SmartPlanting(식물자동제어 및 원격 모니터링 시스템)<br/>토양 �
 <li>반영구 토양습도 센서 개발(Development of A Semi-permanent Soil Humidity Sensor)<br/>정영주, 안광은, 서동만, 2017.12, 한국정보처리학회</li>
 <li>Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking.<br/>KwangEun An, Sung Won Lee, Young Ju Jeong, Dongmahn Seo, 20 December 2017, International Conference on Computer Science and its Applications.</li>
 <h4>2018</h4>
-<li>Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments.<br/>Young Ju Jeong, KwangEun An , Dongmahn Seo, 2018.01,  International Conference On Consumer Electronics(ICCE)</li>
+<li>Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments.Young Ju Jeong, KwangEun An , Dongmahn Seo, 2018.01, International Conference On Consumer Electronics(ICCE)</li>
+<li>기계학습과 이미지 처리 기반 실시간 포트홀 탐지 시스템 제안. 이성원 안광은, 정영주, 김석진, 류승기, 서동만.  2018.6. 한국정보과학회 학술발표논문집, 7-9. </li>
+<li>IoT 기반 드론 확장 모듈 연구 김석진, 정영주, 이성원, 서동만. 2018.6. 한국정보과학회 학술발표논문집, 1828-1830.</li>
+<li>모듈형 토양 습도 센서의 교체용 탐침 연구 정영주, 서동만. 한국정보과학회 학술발표논문집,  2018.6. 444-445.</li>
+<li>딥러닝 기반 포트홀 탐지 시스템에서의 학습 모델 비교 분석안광은, 이성원, 정영주, 김석진, 류승기, 서동만. 2018.12. 한국정보과학회 학술발표논문집, 731-733.</li>
+<li>Squeezenet 기반 포트홀 탐지에서 데이터셋 구성 기법이성원, 안광은, 정영주, 류승기, 서동만.  2018.12. 한국정보과학회 학술발표논문집,  800-802.</li>
+<li>토양 습도 센서에서 센서 감도를 조절하기 위한 임피던스 값 선택회로 구현, 정영주, 서동만. 2018.12. 한국정보과학회 학술발표논문집, 355-357.</li>
+
 
 <h3>인적사항</h3>
 <li>경북 경산시 하양읍 하양로 13-13 대구가톨릭대학교 D2공과대학 509호<br/>(38430) 509, University of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea</li>

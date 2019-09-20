@@ -96,7 +96,7 @@ IoT(Internet of Things), Embedded System, Sensor, machine learning
 <li>20170726~20170806 전공연계 인도 IBM, IIT대학 등 인도 산학 방문</li>
 <li>20180109~20180116 학술활동 미국 ICCE2018 학회 발표 및 CES 참관</li>
 <br/>
-<li>20150622~20150724 C-Academy 3D게임& 가상현실(VR) 제작전문가과정 nity Tool을 활용하여 3D 게임 개발(FPS)
+<li>20150622~20150724 C-Academy 3D게임& 가상현실(VR) 제작전문가과정 nity Tool을 활용하여 3D 게임 개발(FPS)</li>
 <li>20151002~20151003 글로벌 이노베이터 페스타 2015(GLOBAL INNOVATOR FESTA 2015)</li>
 <li>20161207~20161208 한이음 공모대전 2016</li>
 <li>2015~2019다수년간 학회활동</li>
